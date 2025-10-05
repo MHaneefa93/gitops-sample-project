@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: flask
-          image: haneefa93/python-app:1.1
+          image: haneefa93/python-app:2.0
           ports:
             - containerPort: 5000
